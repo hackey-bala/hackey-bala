@@ -24,7 +24,7 @@ class Balaji:
         self.name        = "Balaji Saravanan"
         self.location    = "Chennai, Tamil Nadu 🇮🇳"
         self.degree      = "B.E. CSE (Cyber Security) — 2026"
-        self.cgpa        = 7.59
+        self.cgpa        = 7.69
 
         self.stack = [
             "Docker", "Kubernetes", "Terraform",
